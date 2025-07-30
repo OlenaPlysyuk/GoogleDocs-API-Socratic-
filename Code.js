@@ -3,7 +3,7 @@
 
 // Enter your key there if in Apps Script
 
-require('dotenv').config();// Remove this if in Apps Script
+require('dotenv').config();//="YOUR KEY"; if in APPS SCRIPT
 
 
 const API_KEY = process.env.API_KEY;//remove this if in Apps Script
